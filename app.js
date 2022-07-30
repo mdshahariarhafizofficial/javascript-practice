@@ -1,4 +1,4 @@
-var num = 100;
+var num = 32;
 
 switch (num){
 
@@ -25,6 +25,5 @@ switch (num){
     case 32:
         console.log("Fail")
         break;
-        
 
 }
